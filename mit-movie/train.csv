@@ -1,0 +1,405 @@
+Source sentence,Answer sentence
+please find a movie starring al pacino as a blind veteran,please is not a named entity .
+please find a movie starring al pacino as a blind veteran,find is not a named entity .
+please find a movie starring al pacino as a blind veteran,a is not a named entity .
+please find a movie starring al pacino as a blind veteran,movie is not a named entity .
+please find a movie starring al pacino as a blind veteran,starring is not a named entity .
+please find a movie starring al pacino as a blind veteran,al pacino is a ACTOR entity .
+please find a movie starring al pacino as a blind veteran,as is not a named entity .
+please find a movie starring al pacino as a blind veteran,a is not a named entity .
+please find a movie starring al pacino as a blind veteran,blind veteran is a CHARACTER entity .
+who is in justin time,who is not a named entity .
+who is in justin time,is is not a named entity .
+who is in justin time,in is not a named entity .
+who is in justin time,justin time is a TITLE entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,what is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,was is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,the is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,title is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,of is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,the is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,movie is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,of is not a named entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,julia roberts is a ACTOR entity .
+what was the title of the movie of julia roberts academy award winning perfrmance,academy award winning perfrmance is a REVIEW entity .
+who created the soundtrak for star wars,who is not a named entity .
+who created the soundtrak for star wars,created is not a named entity .
+who created the soundtrak for star wars,the is not a named entity .
+who created the soundtrak for star wars,soundtrak is a SONG entity .
+who created the soundtrak for star wars,for is not a named entity .
+who created the soundtrak for star wars,star wars is a TRAILER entity .
+who was the voice of ariel in the little mermaid,who is not a named entity .
+who was the voice of ariel in the little mermaid,was is not a named entity .
+who was the voice of ariel in the little mermaid,the is not a named entity .
+who was the voice of ariel in the little mermaid,voice is not a named entity .
+who was the voice of ariel in the little mermaid,of is not a named entity .
+who was the voice of ariel in the little mermaid,ariel is a CHARACTER entity .
+who was the voice of ariel in the little mermaid,in is not a named entity .
+who was the voice of ariel in the little mermaid,the is not a named entity .
+who was the voice of ariel in the little mermaid,little mermaid is a TITLE entity .
+find clips of men in black ii,find is not a named entity .
+find clips of men in black ii,clips is a TRAILER entity .
+find clips of men in black ii,of is not a named entity .
+find clips of men in black ii,men in black ii is a TITLE entity .
+what is the plot of red tails,what is not a named entity .
+what is the plot of red tails,is is not a named entity .
+what is the plot of red tails,the is not a named entity .
+what is the plot of red tails,plot is not a named entity .
+what is the plot of red tails,of is not a named entity .
+what is the plot of red tails,red tails is a TITLE entity .
+do you know of any movie that had come what may in its soundtrack,do is not a named entity .
+do you know of any movie that had come what may in its soundtrack,you is not a named entity .
+do you know of any movie that had come what may in its soundtrack,know is not a named entity .
+do you know of any movie that had come what may in its soundtrack,of is not a named entity .
+do you know of any movie that had come what may in its soundtrack,any is not a named entity .
+do you know of any movie that had come what may in its soundtrack,movie is not a named entity .
+do you know of any movie that had come what may in its soundtrack,that is not a named entity .
+do you know of any movie that had come what may in its soundtrack,had is not a named entity .
+do you know of any movie that had come what may in its soundtrack,come what may is a SONG entity .
+do you know of any movie that had come what may in its soundtrack,in is not a named entity .
+do you know of any movie that had come what may in its soundtrack,its is not a named entity .
+do you know of any movie that had come what may in its soundtrack,soundtrack is not a named entity .
+i want to know what movies have the song come what may,i is not a named entity .
+i want to know what movies have the song come what may,want is not a named entity .
+i want to know what movies have the song come what may,to is not a named entity .
+i want to know what movies have the song come what may,know is not a named entity .
+i want to know what movies have the song come what may,what is not a named entity .
+i want to know what movies have the song come what may,movies is not a named entity .
+i want to know what movies have the song come what may,have is not a named entity .
+i want to know what movies have the song come what may,the is not a named entity .
+i want to know what movies have the song come what may,song is not a named entity .
+i want to know what movies have the song come what may,come what may is a SONG entity .
+show me the half baked soundtrack,show is not a named entity .
+show me the half baked soundtrack,me is not a named entity .
+show me the half baked soundtrack,the is not a named entity .
+show me the half baked soundtrack,half baked soundtrack is a SONG entity .
+find me a list of bette midler movies from the 1980s,find is not a named entity .
+find me a list of bette midler movies from the 1980s,me is not a named entity .
+find me a list of bette midler movies from the 1980s,a is not a named entity .
+find me a list of bette midler movies from the 1980s,list is not a named entity .
+find me a list of bette midler movies from the 1980s,of is not a named entity .
+find me a list of bette midler movies from the 1980s,bette midler is a ACTOR entity .
+find me a list of bette midler movies from the 1980s,movies is not a named entity .
+find me a list of bette midler movies from the 1980s,from is not a named entity .
+find me a list of bette midler movies from the 1980s,the is not a named entity .
+find me a list of bette midler movies from the 1980s,1980s is a YEAR entity .
+get a yul brenner western,get is not a named entity .
+get a yul brenner western,a is not a named entity .
+get a yul brenner western,yul brenner is a ACTOR entity .
+get a yul brenner western,western is a GENRE entity .
+play trailer on stranger tides,play is not a named entity .
+play trailer on stranger tides,trailer is a TRAILER entity .
+play trailer on stranger tides,on stranger tides is a TITLE entity .
+who played james bond in goldfinger,who is not a named entity .
+who played james bond in goldfinger,played is not a named entity .
+who played james bond in goldfinger,james bond is a CHARACTER entity .
+who played james bond in goldfinger,in is not a named entity .
+who played james bond in goldfinger,goldfinger is a TITLE entity .
+what is an ok pg 13 adventure directed by mac carter,what is not a named entity .
+what is an ok pg 13 adventure directed by mac carter,is is not a named entity .
+what is an ok pg 13 adventure directed by mac carter,an is not a named entity .
+what is an ok pg 13 adventure directed by mac carter,ok is a RATINGS_AVERAGE entity .
+what is an ok pg 13 adventure directed by mac carter,pg 13 is a RATING entity .
+what is an ok pg 13 adventure directed by mac carter,adventure is a GENRE entity .
+what is an ok pg 13 adventure directed by mac carter,directed is not a named entity .
+what is an ok pg 13 adventure directed by mac carter,by is not a named entity .
+what is an ok pg 13 adventure directed by mac carter,mac carter is a DIRECTOR entity .
+who is the main character of a bronx tale,who is not a named entity .
+who is the main character of a bronx tale,is is not a named entity .
+who is the main character of a bronx tale,the is not a named entity .
+who is the main character of a bronx tale,main is a CHARACTER entity .
+who is the main character of a bronx tale,character is not a named entity .
+who is the main character of a bronx tale,of is not a named entity .
+who is the main character of a bronx tale,a bronx tale is a TITLE entity .
+find a preview for a elizabeth perkins period piece movie,find is not a named entity .
+find a preview for a elizabeth perkins period piece movie,a is not a named entity .
+find a preview for a elizabeth perkins period piece movie,preview is a TRAILER entity .
+find a preview for a elizabeth perkins period piece movie,for is not a named entity .
+find a preview for a elizabeth perkins period piece movie,a is not a named entity .
+find a preview for a elizabeth perkins period piece movie,elizabeth perkins is a ACTOR entity .
+find a preview for a elizabeth perkins period piece movie,period piece is a PLOT entity .
+find a preview for a elizabeth perkins period piece movie,movie is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,looking is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,for is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,the is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,movie is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,with is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,broderick crawford is a ACTOR entity .
+looking for the movie with broderick crawford as the governor of louisiana,as is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,the is not a named entity .
+looking for the movie with broderick crawford as the governor of louisiana,governor of louisiana is a CHARACTER entity .
+find me a movie with the song my heart will go on,find is not a named entity .
+find me a movie with the song my heart will go on,me is not a named entity .
+find me a movie with the song my heart will go on,a is not a named entity .
+find me a movie with the song my heart will go on,movie is not a named entity .
+find me a movie with the song my heart will go on,with is not a named entity .
+find me a movie with the song my heart will go on,the is not a named entity .
+find me a movie with the song my heart will go on,song is not a named entity .
+find me a movie with the song my heart will go on,my heart will go on is a SONG entity .
+list a crime film which director was david lean,list is not a named entity .
+list a crime film which director was david lean,a is not a named entity .
+list a crime film which director was david lean,crime is a GENRE entity .
+list a crime film which director was david lean,film is not a named entity .
+list a crime film which director was david lean,which is not a named entity .
+list a crime film which director was david lean,director is not a named entity .
+list a crime film which director was david lean,was is not a named entity .
+list a crime film which director was david lean,david lean is a DIRECTOR entity .
+when did little man come out on dvd,when is not a named entity .
+when did little man come out on dvd,did is not a named entity .
+when did little man come out on dvd,little man is a TITLE entity .
+when did little man come out on dvd,come is not a named entity .
+when did little man come out on dvd,out is not a named entity .
+when did little man come out on dvd,on is not a named entity .
+when did little man come out on dvd,dvd is not a named entity .
+what are the best horror movies from 2004,what is not a named entity .
+what are the best horror movies from 2004,are is not a named entity .
+what are the best horror movies from 2004,the is not a named entity .
+what are the best horror movies from 2004,best is a REVIEW entity .
+what are the best horror movies from 2004,horror is a GENRE entity .
+what are the best horror movies from 2004,movies is not a named entity .
+what are the best horror movies from 2004,from is not a named entity .
+what are the best horror movies from 2004,2004 is a YEAR entity .
+how many james bond movies are there,how is not a named entity .
+how many james bond movies are there,many is not a named entity .
+how many james bond movies are there,james bond is a CHARACTER entity .
+how many james bond movies are there,movies is not a named entity .
+how many james bond movies are there,are is not a named entity .
+how many james bond movies are there,there is not a named entity .
+do you think project x is better than hangover,do is not a named entity .
+do you think project x is better than hangover,you is not a named entity .
+do you think project x is better than hangover,think is not a named entity .
+do you think project x is better than hangover,project x is a TITLE entity .
+do you think project x is better than hangover,is is not a named entity .
+do you think project x is better than hangover,better is a REVIEW entity .
+do you think project x is better than hangover,than is not a named entity .
+do you think project x is better than hangover,hangover is a TITLE entity .
+who directed cello eng subs,who is not a named entity .
+who directed cello eng subs,directed is not a named entity .
+who directed cello eng subs,cello eng subs is a TITLE entity .
+run twilight zone,run is not a named entity .
+run twilight zone,twilight zone is a TITLE entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,name is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,the is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,thriller is a GENRE entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,starring is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,jack haley is a ACTOR entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,from is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,1960 is a YEAR entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,that is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,is is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,rated is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,pg 13 is a RATING entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,with is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,a is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,ratings is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,average is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,of is not a named entity .
+name the thriller starring jack haley from 1960 that is rated pg 13 with a ratings average of four,four is a RATINGS_AVERAGE entity .
+find a five star karate movie,find is not a named entity .
+find a five star karate movie,a is not a named entity .
+find a five star karate movie,five star is a RATINGS_AVERAGE entity .
+find a five star karate movie,karate is a GENRE entity .
+find a five star karate movie,movie is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,name is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,the is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,the is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,sequel is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,of is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,the is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,movie is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,pitch black is a TITLE entity .
+name the the sequel of the movie pitch black starring vin diesel,starring is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,vin is not a named entity .
+name the the sequel of the movie pitch black starring vin diesel,diesel is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,has is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,ingmar bergman is a DIRECTOR entity .
+has ingmar bergman ever directed any r rated thriller films,ever is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,directed is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,any is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,r is a RATING entity .
+has ingmar bergman ever directed any r rated thriller films,rated is not a named entity .
+has ingmar bergman ever directed any r rated thriller films,thriller is a GENRE entity .
+has ingmar bergman ever directed any r rated thriller films,films is not a named entity .
+find me fantasy films starring warwick davis,find is not a named entity .
+find me fantasy films starring warwick davis,me is not a named entity .
+find me fantasy films starring warwick davis,fantasy is a GENRE entity .
+find me fantasy films starring warwick davis,films is not a named entity .
+find me fantasy films starring warwick davis,starring is not a named entity .
+find me fantasy films starring warwick davis,warwick davis is a ACTOR entity .
+find a kids movie with benji the dog,find is not a named entity .
+find a kids movie with benji the dog,a is not a named entity .
+find a kids movie with benji the dog,kids movie is a GENRE entity .
+find a kids movie with benji the dog,with is not a named entity .
+find a kids movie with benji the dog,benji the dog is a CHARACTER entity .
+was a beautiful mind an original score,was is not a named entity .
+was a beautiful mind an original score,a beautiful mind is a TITLE entity .
+was a beautiful mind an original score,an is not a named entity .
+was a beautiful mind an original score,original score is a SONG entity .
+i wish to see reviews from common people who watched the movie already,i is not a named entity .
+i wish to see reviews from common people who watched the movie already,wish is not a named entity .
+i wish to see reviews from common people who watched the movie already,to is not a named entity .
+i wish to see reviews from common people who watched the movie already,see is not a named entity .
+i wish to see reviews from common people who watched the movie already,reviews is a REVIEW entity .
+i wish to see reviews from common people who watched the movie already,from is not a named entity .
+i wish to see reviews from common people who watched the movie already,common is not a named entity .
+i wish to see reviews from common people who watched the movie already,people is not a named entity .
+i wish to see reviews from common people who watched the movie already,who is not a named entity .
+i wish to see reviews from common people who watched the movie already,watched is not a named entity .
+i wish to see reviews from common people who watched the movie already,the is not a named entity .
+i wish to see reviews from common people who watched the movie already,movie is not a named entity .
+i wish to see reviews from common people who watched the movie already,already is not a named entity .
+how many james bond movies did sean connery star in,how is not a named entity .
+how many james bond movies did sean connery star in,many is not a named entity .
+how many james bond movies did sean connery star in,james bond is a CHARACTER entity .
+how many james bond movies did sean connery star in,movies is not a named entity .
+how many james bond movies did sean connery star in,did is not a named entity .
+how many james bond movies did sean connery star in,sean connery is a ACTOR entity .
+how many james bond movies did sean connery star in,star is not a named entity .
+how many james bond movies did sean connery star in,in is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,in is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,the is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,past nine years is a YEAR entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,there is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,was is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,a is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,sci fi is a GENRE entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,movie is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,that is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,was is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,directed is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,by is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,paddy breathnach is a DIRECTOR entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,and is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,received is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,nine stars is a RATINGS_AVERAGE entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,also is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,included is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,parasites is a PLOT entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,what is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,was is not a named entity .
+in the past nine years there was a sci fi movie that was directed by paddy breathnach and received nine stars also included parasites what was it,it is not a named entity .
+suggest a movie for family night,suggest is not a named entity .
+suggest a movie for family night,a is not a named entity .
+suggest a movie for family night,movie is not a named entity .
+suggest a movie for family night,for is not a named entity .
+suggest a movie for family night,family night is a REVIEW entity .
+run a trailer for a stanley kubrik epic,run is not a named entity .
+run a trailer for a stanley kubrik epic,a is not a named entity .
+run a trailer for a stanley kubrik epic,trailer is a TRAILER entity .
+run a trailer for a stanley kubrik epic,for is not a named entity .
+run a trailer for a stanley kubrik epic,a is not a named entity .
+run a trailer for a stanley kubrik epic,stanley kubrik is a DIRECTOR entity .
+run a trailer for a stanley kubrik epic,epic is a GENRE entity .
+what are people saying about willy wonka the chocolate factory,what is not a named entity .
+what are people saying about willy wonka the chocolate factory,are is not a named entity .
+what are people saying about willy wonka the chocolate factory,people saying is a REVIEW entity .
+what are people saying about willy wonka the chocolate factory,about is not a named entity .
+what are people saying about willy wonka the chocolate factory,willy wonka the chocolate factory is a TITLE entity .
+find a trailer for last of the mohicans,find is not a named entity .
+find a trailer for last of the mohicans,a is not a named entity .
+find a trailer for last of the mohicans,trailer is a TRAILER entity .
+find a trailer for last of the mohicans,for is not a named entity .
+find a trailer for last of the mohicans,last of the mohicans is a TITLE entity .
+show me a movie with the song some day my prince will come,show is not a named entity .
+show me a movie with the song some day my prince will come,me is not a named entity .
+show me a movie with the song some day my prince will come,a is not a named entity .
+show me a movie with the song some day my prince will come,movie is not a named entity .
+show me a movie with the song some day my prince will come,with is not a named entity .
+show me a movie with the song some day my prince will come,the is not a named entity .
+show me a movie with the song some day my prince will come,song is not a named entity .
+show me a movie with the song some day my prince will come,some day my prince will come is a SONG entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,could is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,you is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,tell is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,me is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,the is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,titles is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,of is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,the is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,pg 13 is a RATING entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,family is a GENRE entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,films is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,from is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,the is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,past three decades is a YEAR entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,by is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,director is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,david presley is a DIRECTOR entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,that is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,have is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,a is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,ratings is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,average is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,of is not a named entity .
+could you tell me the titles of the pg 13 family films from the past three decades by director david presley that have a ratings average of highly recommended,highly recommended is a RATINGS_AVERAGE entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,what is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,would is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,be is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,the is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,best is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,short is a GENRE entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,movie is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,to is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,watch is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,starring is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,rene russo is a ACTOR entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,that is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,was is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,made is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,in is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,the is not a named entity .
+what would be the best short movie to watch starring rene russo that was made in the last six years,last six years is a YEAR entity .
+did barbra streisand do any comedies,did is not a named entity .
+did barbra streisand do any comedies,barbra streisand is a ACTOR entity .
+did barbra streisand do any comedies,do is not a named entity .
+did barbra streisand do any comedies,any is not a named entity .
+did barbra streisand do any comedies,comedies is a GENRE entity .
+what g rated drama with humphrey bogart did ok,what is not a named entity .
+what g rated drama with humphrey bogart did ok,g is a RATING entity .
+what g rated drama with humphrey bogart did ok,rated is not a named entity .
+what g rated drama with humphrey bogart did ok,drama is a GENRE entity .
+what g rated drama with humphrey bogart did ok,with is not a named entity .
+what g rated drama with humphrey bogart did ok,humphrey bogart is a ACTOR entity .
+what g rated drama with humphrey bogart did ok,did is not a named entity .
+what g rated drama with humphrey bogart did ok,ok is a RATINGS_AVERAGE entity .
+find me the movie with the song blue hawaii,find is not a named entity .
+find me the movie with the song blue hawaii,me is not a named entity .
+find me the movie with the song blue hawaii,the is not a named entity .
+find me the movie with the song blue hawaii,movie is not a named entity .
+find me the movie with the song blue hawaii,with is not a named entity .
+find me the movie with the song blue hawaii,the is not a named entity .
+find me the movie with the song blue hawaii,song is not a named entity .
+find me the movie with the song blue hawaii,blue hawaii is a SONG entity .
+what are some good g rated movies for kids,what is not a named entity .
+what are some good g rated movies for kids,are is not a named entity .
+what are some good g rated movies for kids,some is not a named entity .
+what are some good g rated movies for kids,good is a REVIEW entity .
+what are some good g rated movies for kids,g is a RATING entity .
+what are some good g rated movies for kids,rated is not a named entity .
+what are some good g rated movies for kids,movies is not a named entity .
+what are some good g rated movies for kids,for is not a named entity .
+what are some good g rated movies for kids,kids is a REVIEW entity .
+im looking for im not there,im is not a named entity .
+im looking for im not there,looking is not a named entity .
+im looking for im not there,for is not a named entity .
+im looking for im not there,im not there is a TITLE entity .
+what horror movie features a character coming out of a tv screen,what is not a named entity .
+what horror movie features a character coming out of a tv screen,horror is a GENRE entity .
+what horror movie features a character coming out of a tv screen,movie is not a named entity .
+what horror movie features a character coming out of a tv screen,features is not a named entity .
+what horror movie features a character coming out of a tv screen,a is not a named entity .
+what horror movie features a character coming out of a tv screen,character coming out of a tv screen is a PLOT entity .
+get me some razzie award winners from 2010,get is not a named entity .
+get me some razzie award winners from 2010,me is not a named entity .
+get me some razzie award winners from 2010,some is not a named entity .
+get me some razzie award winners from 2010,razzie award winners is a REVIEW entity .
+get me some razzie award winners from 2010,from is not a named entity .
+get me some razzie award winners from 2010,2010 is a YEAR entity .
+find a preview for a elizabeth taylor period piece movie,find is not a named entity .
+find a preview for a elizabeth taylor period piece movie,a is not a named entity .
+find a preview for a elizabeth taylor period piece movie,preview is a TRAILER entity .
+find a preview for a elizabeth taylor period piece movie,for is not a named entity .
+find a preview for a elizabeth taylor period piece movie,a is not a named entity .
+find a preview for a elizabeth taylor period piece movie,elizabeth taylor is a ACTOR entity .
+find a preview for a elizabeth taylor period piece movie,period piece is a GENRE entity .
+find a preview for a elizabeth taylor period piece movie,movie is not a named entity .

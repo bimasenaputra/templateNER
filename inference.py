@@ -101,13 +101,13 @@ def cal_time(since):
 
 tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
 # input_TXT = "Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday ."
-model = BartForConditionalGeneration.from_pretrained('./checkpoint-3060')
+model = BartForConditionalGeneration.from_pretrained('./outputs/best_model')
 # model = BartForConditionalGeneration.from_pretrained('../dialogue/bart-large')
 model.eval()
 model.config.use_cache = False
 # input_ids = tokenizer(input_TXT, return_tensors='pt')['input_ids']
 # print(input_ids)
-device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 score_list = []
 file_path = './conll2003/test.txt'
@@ -123,7 +123,7 @@ with open(file_path, "r", encoding="utf-8") as f:
                 words = []
                 labels = []
         else:
-            splits = line.split(" ")
+            splits = line.split("\t")
             words.append(splits[0])
             if len(splits) > 1:
                 labels.append(splits[-1].replace("\n", ""))
@@ -136,10 +136,11 @@ with open(file_path, "r", encoding="utf-8") as f:
 trues_list = []
 preds_list = []
 str = ' '
-num_01 = len(examples)
+num_01 = len(examples)//20
 num_point = 0
 start = time.time()
 for example in examples:
+    if num_point > num_01: break
     sources = str.join(example.words)
     preds_list.append(prediction(sources))
     trues_list.append(example.labels)
@@ -155,6 +156,7 @@ results = {
     "f1": f1_score(true_entities, pred_entities)
 }
 print(results["f1"])
+print(classification_report(true_entities, pred_entities, 4))
 for num_point in range(len(preds_list)):
     preds_list[num_point] = ' '.join(preds_list[num_point]) + '\n'
     trues_list[num_point] = ' '.join(trues_list[num_point]) + '\n'
