@@ -1,20 +1,36 @@
 # Template-Based NER
-Source Code For
+Replication/Reproduction Source Code For
  [Template-Based Named Entity Recognition Using BART](https://aclanthology.org/2021.findings-acl.161.pdf)
 
 # Training
 
-Training ```train.py```
+Training Conll2003 ```train.py```
 
-Inference ```inference.py```
+Inference Conll2003 ```inference.py```
+
+Training MIT Restaurant w/o transfer learning ```train_restaurant_src.py```
+
+Inference MIT Restaurant w/o transfer learning ```inference_restaurant_src.py```
+
+Training MIT Movie w/o transfer learning ```train_movie_src.py```
+
+Inference MIT Movie w/o transfer learning ```inference_movie_src.py```
+
+Training MIT Restaurant with transfer learning Conll2003 base ```train_restaurant.py```
+
+Inference MIT Restaurant with transfer learning Conll2003 base ```inference_restaurant.py```
+
+Training MIT Movie with transfer learning Conll2003 base ```train_movie.py```
+
+Inference MIT Movie with transfer learning Conll2003 base ```inference_movie.py```
 
 # Corpus
 
-ATIS (https://github.com/yvchen/JointSLU/tree/master/data)
+Conll2003 ```conll2003```
 
-MIT Restaurant Corpus (https://groups.csail.mit.edu/sls/downloads/) 
+MIT Restaurant Corpus (unnamed entity not adjusted to 1.25x named entity, but all) ```mit-restaurant```
 
-MIT Movie Corpus (https://groups.csail.mit.edu/sls/downloads/)
+MIT Movie Corpus (unnamed entity not adjusted to 1.25x named entity, but all) ```mit-movie```
 
 # Contact
 
