@@ -28,9 +28,11 @@ Inference MIT Movie with transfer learning Conll2003 base ```inference_movie.py`
 
 Conll2003 ```conll2003```
 
-MIT Restaurant Corpus (unnamed entity not adjusted to 1.25x named entity, but all) ```mit-restaurant```
+MIT Restaurant Corpus (training unnamed entity not adjusted to 1.25x named entity, but all) ```mit-restaurant```
 
-MIT Movie Corpus (unnamed entity not adjusted to 1.25x named entity, but all) ```mit-movie```
+MIT Movie Corpus (training unnamed entity not adjusted to 1.25x named entity, but all) ```mit-movie```
+
+```txttocsv.py``` was used to make the MIT Restaurant and MIT Movie training corpus in this repository.
 
 # Contact
 
